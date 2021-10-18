@@ -46,3 +46,11 @@ In this project we present our analysis of the data at hand as we go on selectin
   Towards the begining, our approach mainly included reducing the dimensionality of the dataset and getting an ideal number of features which could be modelled with ease and effeciency. We employed some of the most commonly used feature engineering techniques like; <b> Threshold Variance, Information Gain, Random Forest, Lasso </b> and a few others to subset our feature space and remove the ominous curse of dimensionality.
   
   Finally we started the machine learning part on the choosen feature subsets, did cross validation for each of the models' hyperparameters and recorded the performance in each case into a compact dataframe. The evaluation metrics we chose for our project include <b> roc_auc score, precision, recall, f1-score. </b>
+
+
+## <b>Challenges Faced during the Project</b>
+
+1. Balancing the trade-off between recall and precision was a challenge.
+2. Feature selection and choosing a right technique.
+3. Exploring literature and resources to understand the problem and to find the solution was a little exhaustive.
+4. Deadlines felt a little strained. But it all worked out for the best.
